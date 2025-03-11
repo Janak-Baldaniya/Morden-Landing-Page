@@ -61,7 +61,7 @@ function Hero() {
           <input
             type="Email"
             placeholder="Email"
-            className="flex-1 px-6 py-2 border border-gray-200 rounded-xl focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-gray-100 transition-all text-gray-700 text-lg "
+            className="flex-1 px-2 py-2 border border-gray-200 rounded-xl focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-gray-100 transition-all text-gray-700 text-lg "
           />
           <button className="bg-blue-600 text-white px-6 py-4 rounded-xl hover:bg-blue-700 cursor-pointer transition-all hover:shadow-lg hover:shadow-blue-300  w-20">
             →
